@@ -109,7 +109,7 @@ Assets/
  Demo Video
 
 <video width="800" height="450" controls>
-  <source src="Demo/demo_video.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/12345/freecompress-AMD.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
