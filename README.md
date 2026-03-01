@@ -131,6 +131,6 @@ git clone https://github.com/muski630346/ThreeArcsPrototype.git
 
  Team-
  Shaik Muskan -Team Lead
- Kesaram Snigdha Reddy
- Kethireddypally Vamshi
+  /Kesaram Snigdha Reddy
+  /Kethireddypally Vamshi
 
